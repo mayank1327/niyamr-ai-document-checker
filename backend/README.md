@@ -82,12 +82,6 @@ POST /api/check-document
   - `pdf` (file): PDF document
   - `rules` (string): JSON array of rules
 
-**Example using curl:**
-```bash
-curl -X POST http://localhost:5000/api/check-document \
-  -F "pdf=@document.pdf" \
-  -F "rules=[\"Rule 1\", \"Rule 2\", \"Rule 3\"]"
-```
 
 **Success Response:**
 ```json
