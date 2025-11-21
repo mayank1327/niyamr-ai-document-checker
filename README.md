@@ -4,10 +4,10 @@ A full-stack web application that analyzes PDF documents against custom rules us
 
 ## 📸 Demo
 
-![Application Demo](./screenshots/screenshot1.png)
-![Application Demo](./screenshots/screenshot2.png)
-![Application Demo](./screenshots/screenshot3.png)
-![Application Demo](./screenshots/screenshot4.png)
+![Application Demo](./screenshots/Screenshot1.png)
+![Application Demo](./screenshots/Screenshot2.png)
+![Application Demo](./screenshots/Screenshot3.png)
+![Application Demo](./screenshots/Screenshot4.png)
 
 ## 🎯 Features
 
